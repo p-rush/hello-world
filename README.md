@@ -1,2 +1,3 @@
-# hello-world
-Practicing GitHub Flow
+# about me
+
+I'm excited to learn how to code.
